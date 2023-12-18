@@ -1,8 +1,6 @@
 # spring
 김영한 스프링 스터디
 
-- 강의 사이트: [인프런](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1)
-
 ## 스터디 규칙 
 
 #### Commit Message
