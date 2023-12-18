@@ -7,20 +7,20 @@
 
 #### Commit Message
 
-- [mvc1-섹션번호] 강의명
-- ex) [mvc1-2] Hello 서블릿
-- ex) [mvc1-3] MVC 패턴 - 개요
+- [db1-섹션번호] 강의명
+- ex) [db1-1] JDBC 이해
+- ex) [db2-6] 스프링 데이터 JPA 적용1
 
 ## 파일 및 폴더 구조
                                                  
 #### harin
 
-- harin/hello-spring/
-- harin/mvc1/
-- harin/mvc2/
+- harin/db1/
+- harin/db2/
+- harin/jpa/
 
 #### minseo
 
-- minseo/hello-spring/
-- minseo/mvc1/
-- minseo/mvc2/
+- minseo/db1/
+- minseo/db2/
+- minseo/jpa/
